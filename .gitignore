@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+.*~
+*~
+*.sw[po]
+tags
+*.tgz
+*.zip
+*.tar
+*.bak
+*.log
+*.jpg
+._*
+.buildpath
+.project
+.settings
